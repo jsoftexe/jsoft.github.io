@@ -1,1 +1,1 @@
-# jsoft.github.io
+# JSoft Static Pages
